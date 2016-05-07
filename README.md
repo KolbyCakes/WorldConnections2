@@ -1,1 +1,1 @@
-# WorldConnections2
+# http://WorldConnections2.git
